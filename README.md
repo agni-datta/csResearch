@@ -8,7 +8,7 @@ aliases: [csResearch]
 
 # csResearch
 
-`csResearch` is a central hub for managing my research activities, aiding in the organization of ongoing research projects, and containing an extensive bibliography separated by subject matter. Usually, it contains the following:
+`csResearch` is a central hub for managing my research activities, aiding in the organization of ongoing research projects, and containing an extensive bibliography separated by subject matter. In general, it contains the following:
 
 1. **Current Reading List**: A single repository consolidates all relevant research articles, academic papers, and other materials currently under study. This eliminates the confusion of scattered files and numerous browser tabs.      
 2. **Bibliographic Archive**: Contains an annotated and tagged bibliographic source, including books, articles, online resources, and other relevant materials. This archive is useful for reading and researching without distractions.
