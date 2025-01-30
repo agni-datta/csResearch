@@ -2,8 +2,8 @@
 title: Multiparty Computation References
 linter-yaml-title-alias: Multiparty Computation References
 date created: Monday, July 31st 2023, 22:20:57
-date modified: Friday, January 17th 2025, 18:54:56
-aliases: [Multiparty Computation References]
+date modified: Thursday, January 30th 2025, 16:28:09
+aliases: Multiparty Computation References
 ---
 
 # Multiparty Computation References

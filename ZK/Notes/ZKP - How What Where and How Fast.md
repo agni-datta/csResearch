@@ -1,9 +1,9 @@
 ---
 title: "ZKP: How, What, Where and How Fast?"
 linter-yaml-title-alias: "ZKP: How, What, Where and How Fast?"
-date created: Friday, March 15th 2024, 01:07:33
-date modified: Friday, January 17th 2025, 18:54:56
-aliases: ["ZKP: How, What, Where and How Fast?"]
+date created: Friday, January 17th 2025, 18:54:57
+date modified: Thursday, January 30th 2025, 16:28:09
+aliases: "ZKP: How, What, Where and How Fast?"
 ---
 
 # ZKP: How, What, Where and How Fast?

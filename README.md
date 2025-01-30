@@ -2,8 +2,8 @@
 title: csResearch
 linter-yaml-title-alias: csResearch
 date created: Wednesday, April 24th 2024, 18:17:36
-date modified: Friday, January 17th 2025, 18:54:48
-aliases: [csResearch]
+date modified: Thursday, January 30th 2025, 16:28:02
+aliases: csResearch
 ---
 
 # csResearch

@@ -2,8 +2,8 @@
 title: "ZKP: Web Resources"
 linter-yaml-title-alias: "ZKP: Web Resources"
 date created: Saturday, November 4th 2023, 17:10:03
-date modified: Friday, January 17th 2025, 18:54:56
-aliases: ["ZKP: Web Resources"]
+date modified: Thursday, January 30th 2025, 16:28:09
+aliases: "ZKP: Web Resources"
 ---
 
 # ZKP: Web Resources
