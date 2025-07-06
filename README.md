@@ -10,9 +10,9 @@ aliases: csResearch
 
 A comprehensive collection of research papers, notes, and resources in theoretical computer science and cryptography. This repository serves as a centralized hub for managing research activities, organizing academic papers, and maintaining an extensive bibliography across multiple research areas.
 
-## 📚 Research Areas
+## Research Areas
 
-### 🔐 Cryptography & Security
+### Cryptography & Security
 
 - **[Zero-Knowledge Proofs](zero-knowledge-proofs/)** - Interactive proofs, SNARKs, STARKs, and related protocols
 - **[Public Key Cryptography](public-key-cryptography/)** - Digital signatures, encryption schemes, and foundational papers
@@ -20,11 +20,11 @@ A comprehensive collection of research papers, notes, and resources in theoretic
 - **[Rational Proofs](rational-proofs/)** - Delegation protocols and rational verifier models
 - **[Fine-Grained Cryptography](fine-grained-cryptography/)** - Cryptography based on fine-grained complexity assumptions
 
-### ⚛️ Quantum Computing & Post-Quantum Cryptography
+### Quantum Computing & Post-Quantum Cryptography
 
 - **[Quantum Cryptography](quantum-cryptography/)** - Quantum-resistant algorithms, lattice-based cryptography, and quantum key distribution
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each research area follows a consistent structure:
 
@@ -36,7 +36,7 @@ research-area/
 └── references.bib    # BibTeX bibliography file
 ```
 
-## 🎯 Key Features
+## Key Features
 
 - **Centralized Bibliography**: Each area contains a comprehensive `.bib` file with properly formatted citations
 - **Organized Papers**: Papers are stored with descriptive filenames including author initials and year
@@ -54,14 +54,14 @@ The repository currently covers these active research topics:
 5. **Multi-Party Computation** - Secure computation protocols
 6. **Quantum Computing** - Post-quantum cryptography and quantum-resistant algorithms
 
-## 🔍 Navigation Tips
+## Navigation Tips
 
 - **Search by Topic**: Use the folder structure to find papers in specific research areas
 - **Find Citations**: Each folder contains a `references.bib` file with properly formatted citations
 - **Research Notes**: Check the `Notes/` folders for personal summaries and insights
 - **Cross-References**: Papers often reference work from other areas - check related folders
 
-## 📝 Usage
+## Usage
 
 This repository is designed for:
 
@@ -70,11 +70,11 @@ This repository is designed for:
 - **Practitioners** implementing cryptographic protocols
 - **Anyone** interested in the foundations of modern cryptography
 
-## 🤝 Contributing
+## Contributing
 
 While this is primarily a personal research repository, suggestions for additional papers or improved organization are welcome. Please ensure any additions follow the existing naming conventions and structure.
 
-## 📄 License
+## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
