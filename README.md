@@ -43,7 +43,7 @@ research-area/
 - **Research Notes**: Personal notes and summaries for quick reference
 - **Cross-References**: Easy navigation between related research areas
 
-## 📖 Current Research Focus
+## Current Research Focus
 
 The repository currently covers these active research topics:
 
