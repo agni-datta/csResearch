@@ -1,9 +1,9 @@
 ---
-title: csResearch
-linter-yaml-title-alias: csResearch
+title: CS Research Repository
+linter-yaml-title-alias: CS Research Repository
 date created: Wednesday, April 24th 2024, 18:17:36
-date modified: Friday, June 13th 2025, 23:26:57
-aliases: csResearch
+date modified: Sunday, July 6th 2025, 01:42:10
+aliases: CS Research Repository
 ---
 
 # CS Research Repository
