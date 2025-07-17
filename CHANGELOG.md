@@ -1,12 +1,22 @@
+---
+title: CHANGELOG
+aliases: CHANGELOG
+linter-yaml-title-alias: CHANGELOG
+date created: Friday, July 11th 2025, 18:56:28
+date modified: Thursday, July 17th 2025, 22:39:59
+---
+
+# CHANGELOG
+
 - docs(README): Standardize README.md structure, update metadata, and improve clarity. NEI: Unified documentation, improved maintainability, and user experience. (Agni Datta, 2025-07-11)
-- Merge branch 'new' (Agni Datta, 2025-07-10)
+- Merge branch ‘new’ (Agni Datta, 2025-07-10)
 - Update README.md (Agni Datta, 2025-07-06)
 - Removed all non-unicode characters. (Agni Datta, 2025-07-06)
-- Updated .md files. (Agni Datta, 2025-07-06)
+- Updated.md files. (Agni Datta, 2025-07-06)
 - Delete Icon (Agni Datta, 2025-07-05)
 - Initial commit (Agni Datta, 2025-07-05)
 - Updated. (Agni Datta, 2025-06-14)
-- Update .gitignore (Agni Datta, 2025-06-09)
+- Update.gitignore (Agni Datta, 2025-06-09)
 - Updated a few files due to change in encoding schema. (Agni Datta, 2025-06-05)
 - Update README.md (Agni Datta, 2025-04-20)
 - Updated. (Agni Datta, 2025-02-22)
